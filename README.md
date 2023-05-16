@@ -1,3 +1,11 @@
+
+- php >= 7.4
+- composer install
+- edit .env file
+- php artisan clear:cache
+- php artisan optimize
+
+
  change public path => root path
 
 - root/server.php  => index
